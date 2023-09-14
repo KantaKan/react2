@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from './Navbar'
 
-function owner() {
+function Owner() {
  return (
     <>
     <Navbar/>
@@ -13,4 +13,4 @@ function owner() {
   )
 }
 
-export default owner
+export default Owner
