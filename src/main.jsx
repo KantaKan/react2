@@ -4,7 +4,7 @@ import App from './App.jsx'
 import './index.css'
 import Normal from './component/Normal.jsx'
 import Admin from './component/Admin.jsx'
-import Owner from './component/Owner.jsx'
+import Owner2 from './component/Owner2.jsx'
 
 import {createBrowserRouter, RouterProvider } from 'react-router-dom'
 
@@ -23,7 +23,7 @@ const router = createBrowserRouter([
   },
   {
     path: '/owner',
-    element: <Owner />
+    element: <Owner2 />
   }
 ]);
 
