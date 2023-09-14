@@ -16,7 +16,7 @@ function App() {
           
       </div><div className="button">
                 <button><Link to='/normal'>User home</Link></button>
-              <button><Link to='/owner'>Admin home</Link></button>
+              <button><Link to='/admin'>Admin home</Link></button>
           </div>
 
 
