@@ -23,9 +23,9 @@ function Normal() {
     <th>Position</th>
   </tr>
   <tr>
-    <td> </td>
-    <td> </td>
-    <td></td>
+    <td>kan  </td>
+    <td> kan</td>
+    <td> sad</td>
   </tr>
   <tr>
     <td>  </td>

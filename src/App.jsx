@@ -15,8 +15,8 @@ function App() {
           home app </h1>
           
       </div><div className="button">
-                <button><Link to='/'>home</Link></button>
-              <button><Link to='/owner'>owner</Link></button>
+                <button><Link to='/normal'>User home</Link></button>
+              <button><Link to='/owner'>Admin home</Link></button>
           </div>
 
 
