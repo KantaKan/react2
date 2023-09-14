@@ -4,7 +4,7 @@ import App from './App.jsx'
 import './index.css'
 import Normal from './component/Normal.jsx'
 import Admin from './component/Admin.jsx'
-import Owner from './component/owner.jsx'
+import Owner from './component/Owner.jsx'
 
 import {createBrowserRouter, RouterProvider } from 'react-router-dom'
 
